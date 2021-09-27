@@ -8,4 +8,7 @@ I actual did not know anything about programming. Learning how to program and th
 
 ## Chapter 1 
 
-We learned how to make a css file so we can change the look of our web page with colors and padding and margins. Using the colors was interesting because you have to decide on the text color and the backdround color. You can also make the page look nice with the padding amd margins by putting a boarder around the text and using margin to get the right distance from the edge of the web page and the outside of the box. And then using padding you can make the text look better on the inside of the box so it doesn't look all bunched together. You can also use a line break with the break tag to space out the paragraghs or to beark up sentences. 
+We learned how to make a CSS file so we can change the look of our web page with colors and padding and margins. Using the colors was interesting because you have to decide on the text color and the background color. You can also make the page look nice with the padding and margins by putting a boarder around the text and using margin to get the right distance from the edge of the web page and the outside of the box. And then using padding you can make the text look better on the inside of the box so it doesn't look all bunched together. You can also use a line break with the break tag to space out the paragraphs or to break up sentences.  
+
+## Chapter 2 
+
