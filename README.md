@@ -12,3 +12,4 @@ We learned how to make a CSS file so we can change the look of our web page with
 
 ## Chapter 2 
 
+I learned that you can test html with the help of the live server plug in to help show you how the page looks and if you could run it on the web browser. Learning how to make classes so that you can make a group seperate that makes it easy to use CSS to style that specific thing only. Also the id tag will do the sames thing. We also  learned about the boolian attributes Like making a checkbox. Using the div tag to to separate different parts of the code. 
