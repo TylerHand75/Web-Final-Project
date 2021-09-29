@@ -1,8 +1,36 @@
 body { 
     text-align: center;
-
+    font-family: Arial;
+    
 }
 p{
     text-align: justify;
+    line-height: 20px;
+    
+}
+*{
+    box-sizing: border-box;
+    max-width: 100;
+}
+
+
+span {
+     background-color: lightgrey;
+     font-style: italic;
+
+
+
+}
+#story {
+    width: 50;
+    border: solid black ;
+    padding: 20px;
+    margin: 20%;
+
+}
+
+div.Alice{
+    font:bold;
+    
 
 }
