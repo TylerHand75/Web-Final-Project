@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Nunito+Sans:wght@200;400;900&display=swap');* {
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Nunito+Sans:wght@200;400;900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Rancho&effect=neon&display=swap');
+* {
     box-sizing: border-box;
     max-width: 100%;
 }
@@ -13,8 +15,11 @@ body {
     padding: 20px;
 }
 h1 {
-    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Rancho', cursive;
+    
 }
+
+
 h1, h4, address p{
     margin: 0 0 5px 0;
 
@@ -26,6 +31,10 @@ address p {
     font-size: 18px;
     font-weight: 200;
     display: inline;
+}
+address p span {
+    text-decoration: none;
+    vertical-align: text-top;
 }
 address a {
     color:black;
