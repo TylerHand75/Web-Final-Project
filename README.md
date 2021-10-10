@@ -13,3 +13,7 @@ We learned how to make a CSS file so we can change the look of our web page with
 ## Chapter 2 
 
 I learned that you can test html with the help of the live server plug in to help show you how the page looks and if you could run it on the web browser. Learning how to make classes so that you can make a group seperate that makes it easy to use CSS to style that specific thing only. Also the id tag will do the sames thing. We also  learned about the boolian attributes Like making a checkbox. Using the div tag to to separate different parts of the code. 
+
+## Chapter 3 
+
+I learned how to change font styles and how to customize the letters to make them look cool. Like using a specific thing like neon to make a word or name to stick out. We learned how to use pre tags to make a block of text look like code. We used the block quote tag to indent a line. We learned how to put in an entity code like the copy right symbol and the degree symbol. We learned about block and inline elements like t "P" tag is a block element and the "span" tag is an inline element. We Also learned how to in one of our image folders to get an image and how to go back to a different folder to get and image also. 
