@@ -17,3 +17,7 @@ I learned that you can test html with the help of the live server plug in to hel
 ## Chapter 3 
 
 I learned how to change font styles and how to customize the letters to make them look cool. Like using a specific thing like neon to make a word or name to stick out. We learned how to use pre tags to make a block of text look like code. We used the block quote tag to indent a line. We learned how to put in an entity code like the copy right symbol and the degree symbol. We learned about block and inline elements like the "P" tag is a block element and the "span" tag is an inline element. We Also learned how to in one of our image folders to get an image and how to go back to a different folder to get and image also. 
+
+## Chapter 4 
+
+I learned the different specific measurements that can be used like px, pt, em, rem, and % but the most common are px and em and rem. I learned how to make the color of boxes see through so you can put an img behind it to make a web page look nice. We also learned about the specific selectors are used to make a certain part of the css that has a conflict to be overwritten by the most specific selector, but all will be overwritten by the !important selector. We also learned a little more of the fonts and how to use google fonts to get the right font we want for our page. 
