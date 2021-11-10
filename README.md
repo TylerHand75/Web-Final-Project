@@ -21,3 +21,7 @@ I learned how to change font styles and how to customize the letters to make the
 ## Chapter 4 
 
 I learned the different specific measurements that can be used like px, pt, em, rem, and % but the most common are px and em and rem. I learned how to make the color of boxes see through so you can put an img behind it to make a web page look nice. We also learned about the specific selectors are used to make a certain part of the css that has a conflict to be overwritten by the most specific selector, but all will be overwritten by the !important selector. We also learned a little more of the fonts and how to use google fonts to get the right font we want for our page. 
+
+## Chapter 5 
+
+We learned a little more about the padding and margin. How to use height and width right and not to use the height tag much so that the background colors and images don't become smaller than the box. We learned how to use the min and max width and height. We learned how to style borders to be dotted line or inserted to make them look all fancy. We learned how to use radius to make the corners of a border to style it and we used border shadow to make it look like the border is off the page with a shadow. we learned how to use background images and make them not repeat and we learned how to use gradiants.  
