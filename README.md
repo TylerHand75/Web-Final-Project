@@ -24,4 +24,8 @@ I learned the different specific measurements that can be used like px, pt, em, 
 
 ## Chapter 5 
 
-We learned a little more about the padding and margin. How to use height and width right and not to use the height tag much so that the background colors and images don't become smaller than the box. We learned how to use the min and max width and height. We learned how to style borders to be dotted line or inserted to make them look all fancy. We learned how to use radius to make the corners of a border to style it and we used border shadow to make it look like the border is off the page with a shadow. we learned how to use background images and make them not repeat and we learned how to use gradiants.  
+We learned a little more about the padding and margin. How to use height and width right and not to use the height tag much so that the background colors and images don't become smaller than the box. We learned how to use the min and max width and height. We learned how to style borders to be dotted line or inserted to make them look all fancy. We learned how to use radius to make the corners of a border to style it and we used border shadow to make it look like the border is off the page with a shadow. we learned how to use background images and make them not repeat and we learned how to use gradiants.
+
+## Chapter 6 
+
+we Learned how to make side bars and how to make them into a navigation bar. we learned how to use the columns to divide our page into 2 or 3 sections. We learned how to use the float property to set side bars or to put an image ot text on one side of the page. We learned how to position things of the screen. like to make something stay as you scroll you use the fixed atribute. We learned how to make things relative to the page with the relative tag. 
