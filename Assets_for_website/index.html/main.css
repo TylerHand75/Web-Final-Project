@@ -35,10 +35,13 @@ section{
 #menu_1 li{
     margin-bottom: 5px;
     display: inline;
+    background-color: black;
+    max-width: 100%;
 }
 #menu_1 a {
     color: white;
     text-decoration: none;
+    
 }
 section{
     float: right;
@@ -68,6 +71,12 @@ a{
 footer{
      
       float: right;
+}
+img{
+    max-width: 1300px;
+    float: left;
+    margin: 10px;
+
 }
 
 
