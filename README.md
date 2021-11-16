@@ -29,3 +29,6 @@ We learned a little more about the padding and margin. How to use height and wid
 ## Chapter 6 
 
 we Learned how to make side bars and how to make them into a navigation bar. we learned how to use the columns to divide our page into 2 or 3 sections. We learned how to use the float property to set side bars or to put an image ot text on one side of the page. We learned how to position things of the screen. like to make something stay as you scroll you use the fixed atribute. We learned how to make things relative to the page with the relative tag. 
+
+## Chapter 7 
+

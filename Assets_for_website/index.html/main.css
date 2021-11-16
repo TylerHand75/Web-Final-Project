@@ -1,12 +1,177 @@
+*{
+    box-sizing: border-box;
+}
+
+
 header {
-float: left;
-padding: 20px,100px,20px, 20px;
-margin-left: 20px;
-margin-right: 20px;
+    float: left;
+    padding: 20px,20px, 20px;
+    background-color: #66101F;
+    width: 100%;
+    text-align:center;
+    margin: 0;
 
 }
-main{
+header nav {
+    text-align: left ;
+}
+section{
+    float: right;
     margin: 20px;
     padding: 20px;
-    justify-content: center;
+    max-width: 85%;
+}
+#menu_1{
+    position: sticky;
+    max-width: 100%;
+
+}
+#menu_1 ul {
+    list-style-type: none;
+    padding: 2px;
+    
+
+}
+#menu_1 li{
+    margin-bottom: 5px;
+    display: inline;
+}
+#menu_1 a {
+    color: white;
+    text-decoration: none;
+}
+section{
+    float: right;
+}
+nav.sticky{
+    position: sticky;
+
+}
+#socals_menu{
+    list-style-type: none;
+    position: sticky;
+}
+body{
+    font-size: 30px;
+    background-color: grey;
+    
+    
+}
+ul{
+    list-style-type: none;
+    
+}
+a{
+    text-decoration: none;
+    
+}
+footer{
+     
+      float: right;
+}
+
+
+
+
+@media only screen and (max-width: 959px) {
+    #nav_menu ul li a {
+	    font-size: .875em;
+    }
+    section h1 {
+	    font-size: 1.5em;
+    }
+    section h2, aside h2 {
+	    font-size: 1.125em;
+    }
+}
+
+/* mobile landscape to tablet portrait */
+@media only screen and (max-width: 767px) {
+    #nav_menu {
+    	display: none;
+    }
+    #mobile_menu {
+    	display: block;
+    }
+    .slicknav_menu {
+	    background-color: #facd8a !important;	
+    }
+    body {
+	    width: 100%;
+	    margin: 0;
+	    border: none;
+    }
+    main {
+        flex-direction: column;
+    }
+    header {
+        display: flex;
+        text-align: center;
+    }
+    header, footer {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    footer p { margin-right: 0; }
+    header h2, header h3 {
+        flex-basis: 100%;
+    }
+    header h2 {
+	    font-size: 1em;
+	    margin-left: 0;
+    }
+    header h3 {
+	    font-size: 1em;
+	    margin-left: 0;
+    }
+    header img {
+        float: none;
+        margin-left: 0;
+        margin-bottom: 1em;
+        width: 60px;
+        height: 52.5px;
+    }
+    section {
+        order: 1;
+    }
+    section {
+	    width: 95%;
+    	    margin-right: 2%;
+	    padding-right: 0;
+    }
+    aside {
+        order: 2;
+	    width: 91.9192%;
+        margin: 0 2.0202% 2.0202% 2.0202%;
+    }
+}
+
+/* mobile portrait to mobile landscape */
+@media only screen and (max-width: 479px) {
+
+    header h2 {
+	    font-size: 1.375em;
+    }
+    header h3 {
+	    font-size: .8125em;
+    }
+    header img {
+        width: 40px;
+        height: 35px;
+    }
+    p {
+	    font-size: .875em;
+    }
+    section h1, section h2, aside h2 {
+	    font-size: 1em;
+    }
+    section li {
+	    font-size: .875em;
+    }
+    aside h3 {
+	    font-size: .9375em;
+    }
+    footer p {
+	    font-size: .6875em;
+    }
 }
