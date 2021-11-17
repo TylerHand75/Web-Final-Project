@@ -1,64 +1,66 @@
 *{
     box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
 }
 
 
 header {
-    float: left;
-    padding: 20px,20px, 20px;
     background-color: #66101F;
-    width: 100%;
+    
+}
+header h1 {
     text-align:center;
     margin: 0;
-
-}
-header nav {
-    text-align: left ;
-}
-section{
-    float: right;
-    margin: 20px;
-    padding: 20px;
-    max-width: 85%;
-}
-#menu_1{
-    position: sticky;
-    max-width: 100%;
-
-}
-#menu_1 ul {
-    list-style-type: none;
-    padding: 2px;
-    
-
-}
-#menu_1 li{
-    margin-bottom: 5px;
-    display: inline;
-    background-color: black;
-    max-width: 100%;
-}
-#menu_1 a {
+    font-size: 2.5em;
+    line-height: 150px;
     color: white;
+}
+header nav li{
+    text-align: left ;
+    display: inline-block;
+    font-size:1.5rem ;
+    color: white;
+    padding: 0px 20px;
+}
+nav.menu_1{
+    background-color:#B8D4E3 ;
+}
+.menu_1 ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 2.5em;
+
+}
+.menu_1 li{
+   display: inline-block;
+}
+.menu_1 a {
+    color:black;
     text-decoration: none;
+    padding: 10px 20px;
+    display: block;
     
 }
-section{
-    float: right;
+.menu_1 li :hover{
+    background-color:#EEFFDB;
 }
+
 nav.sticky{
-    position: sticky;
+    position:sticky;
+    top: 0px;
 
 }
 #socals_menu{
     list-style-type: none;
-    position: sticky;
+    
+    display: inline;
 }
 body{
     font-size: 30px;
-    background-color: grey;
-    
-    
+    background-color: #979292;
+    flex-wrap: wrap;  
 }
 ul{
     list-style-type: none;
@@ -68,16 +70,29 @@ a{
     text-decoration: none;
     
 }
-footer{
-     
-      float: right;
+section{
+    margin: 20px;
+    padding: 20px;
+    max-width: 85%;
+}
+footer{ 
+      float: left;
+      background-color: #EEFFDB;
+      width: 100%;
+      font-size: 1.2rem;
 }
 img{
-    max-width: 1300px;
+    max-width: 700px;
     float: left;
     margin: 10px;
 
 }
+p{
+    margin: 5px;
+    padding: 5px;
+}
+
+
 
 
 
@@ -102,9 +117,6 @@ img{
     #mobile_menu {
     	display: block;
     }
-    .slicknav_menu {
-	    background-color: #facd8a !important;	
-    }
     body {
 	    width: 100%;
 	    margin: 0;
@@ -121,7 +133,8 @@ img{
         flex-wrap: wrap;
         justify-content: center;
     }
-    footer p { margin-right: 0; }
+    footer p { margin-right: 0;
+    }
     header h2, header h3 {
         flex-basis: 100%;
     }
@@ -182,5 +195,8 @@ img{
     }
     footer p {
 	    font-size: .6875em;
+    }
+    img{
+        max-width: 300px;
     }
 }
