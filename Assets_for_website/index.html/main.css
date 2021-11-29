@@ -4,7 +4,6 @@
     padding: 0px;
 }
 
-
 header {
     background-color: #66101F;
     
@@ -45,6 +44,8 @@ nav.menu_1{
 }
 .menu_1 li :hover{
     background-color:#EEFFDB;
+    color:#979292;
+    font-style: italic;
 }
 
 nav.sticky{
@@ -91,11 +92,6 @@ p{
     margin: 5px;
     padding: 5px;
 }
-
-
-
-
-
 
 @media only screen and (max-width: 959px) {
     #nav_menu ul li a {
