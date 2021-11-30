@@ -4,7 +4,6 @@
     padding: 0px;
 }
 
-
 header {
     background-color: #66101F;
     
@@ -45,11 +44,13 @@ nav.menu_1{
 }
 .menu_1 li :hover{
     background-color:#EEFFDB;
+    color:#979292;
+    font-style: italic;
 }
 
 nav.sticky{
     position:sticky;
-    top: 0px;
+    top: 0%;
 
 }
 #socals_menu{
@@ -84,18 +85,13 @@ footer{
 img{
     max-width: 700px;
     float: left;
-    margin: 10px;
+    margin: 20px;
 
 }
 p{
     margin: 5px;
     padding: 5px;
 }
-
-
-
-
-
 
 @media only screen and (max-width: 959px) {
     #nav_menu ul li a {
@@ -112,7 +108,7 @@ p{
 /* mobile landscape to tablet portrait */
 @media only screen and (max-width: 767px) {
     #nav_menu {
-    	display: none;
+    	display: block;
     }
     #mobile_menu {
     	display: block;
