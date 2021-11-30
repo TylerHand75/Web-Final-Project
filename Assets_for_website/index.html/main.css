@@ -50,7 +50,7 @@ nav.menu_1{
 
 nav.sticky{
     position:sticky;
-    top: 0px;
+    top: 0%;
 
 }
 #socals_menu{
@@ -85,7 +85,7 @@ footer{
 img{
     max-width: 700px;
     float: left;
-    margin: 10px;
+    margin: 20px;
 
 }
 p{
@@ -108,7 +108,7 @@ p{
 /* mobile landscape to tablet portrait */
 @media only screen and (max-width: 767px) {
     #nav_menu {
-    	display: none;
+    	display: block;
     }
     #mobile_menu {
     	display: block;
