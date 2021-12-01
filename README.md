@@ -33,3 +33,7 @@ we Learned how to make side bars and how to make them into a navigation bar. we 
 ## Chapter 7 
 
 We learned how to code nested list some more. We learned how to code links like how if the link text is to long you can put a title on it to make it shorter. You use the (a) tags to add a title to a link. We learned how to make navigation links to other site or to another html page that you created for your site. You can take the nav link in an unordered list to make a vertical nav bar. Also you can use an inline code in the css to make a horizontal nav bar. We learned how to make a socal media nav bar to send someone to an email or to a website or to a socal media account with the push of a button.
+
+## Chapter 8
+
+We learned how to make a responsive web page so that it can be viewed on most all devices, like a mobile phone and tablets. We learned that to test a website on devices it is best to deploy it to a server and then test it on all sorts of devices. Also you can use the developer tools on most browers today so you can test it on the mobile with the desktop. We learned how to use media tags in the css to help with the responsive web design so that you can have it be a different size for a mobile device. We learned how to make a fluid web page so that its pleasing to the eyes of anyone that visits the site.
