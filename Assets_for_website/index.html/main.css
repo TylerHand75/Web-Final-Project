@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
+    max-height: 100%;
 }
 
 header {
@@ -50,7 +51,7 @@ nav.menu_1{
 
 nav.sticky{
     position:sticky;
-    top: 0%;
+    top: 0px;
 
 }
 #socals_menu{
@@ -69,6 +70,7 @@ ul{
 }
 a{
     text-decoration: none;
+    color: white;
     
 }
 section{
