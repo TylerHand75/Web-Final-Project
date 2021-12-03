@@ -37,3 +37,7 @@ We learned how to code nested list some more. We learned how to code links like 
 ## Chapter 8
 
 We learned how to make a responsive web page so that it can be viewed on most all devices, like a mobile phone and tablets. We learned that to test a website on devices it is best to deploy it to a server and then test it on all sorts of devices. Also you can use the developer tools on most browers today so you can test it on the mobile with the desktop. We learned how to use media tags in the css to help with the responsive web design so that you can have it be a different size for a mobile device. We learned how to make a fluid web page so that its pleasing to the eyes of anyone that visits the site.
+
+## Chapter 9
+
+We
