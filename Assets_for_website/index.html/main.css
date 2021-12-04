@@ -208,4 +208,7 @@ img.pc{
     img{
         max-width: 300px;
     }
+    #socal_menu{
+        display: block;
+    }
 }
