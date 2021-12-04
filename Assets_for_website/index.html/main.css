@@ -79,10 +79,15 @@ section{
     max-width: 85%;
 }
 footer{ 
-      float: left;
-      background-color: #EEFFDB;
-      width: 100%;
-      font-size: 1.2rem;
+    background-color: #EEFFDB;
+    width: 100%;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.footer  {
+    display: inline-block;
 }
 img{
     max-width: 700px;
@@ -99,12 +104,16 @@ p{
     display: flex;
     border: 1px solid black;
 }
-img.pc{
-    float: left;
-    max-width: 600px;
-    display: flex;
-    flex-direction: column;
+.pc{
+    float: none;
+    display: inline-block;
+    justify-content: space-between;
+    margin-left: 30px;
 }
+.two{
+    max-width: 100%;
+}
+
 
 @media only screen and (max-width: 959px) {
     #nav_menu ul li a {
