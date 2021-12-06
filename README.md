@@ -40,4 +40,4 @@ We learned how to make a responsive web page so that it can be viewed on most al
 
 ## Chapter 9
 
-We 
+We Learned how to use flex to make the page layout look good. We learned how to use align to make items form the start of the page to the end of the page. We learned how to use the justify-content to space them out with space between or space around and space evenly to help space out content. We learned how to use flexbox to help the content conform to different size pages or screens so that it doesn't look bad on the diffenet pages. We learned a little more about media querys to help more with mobile development. 
