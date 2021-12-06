@@ -2,7 +2,8 @@
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
-    max-height: 100%;
+    max-width: 100%;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 header {
@@ -16,6 +17,7 @@ header h1 {
     line-height: 150px;
     color: white;
 }
+
 header nav li{
     text-align: left ;
     display: inline-block;
@@ -76,7 +78,6 @@ a{
 section{
     margin: 20px;
     padding: 20px;
-    max-width: 85%;
 }
 footer{ 
     background-color: #EEFFDB;
@@ -90,7 +91,7 @@ footer{
     display: inline-block;
 }
 img{
-    max-width: 700px;
+    max-width: 600px;
     float: left;
     margin: 20px;
 
@@ -108,14 +109,14 @@ p{
     float: none;
     display: inline-block;
     justify-content: space-between;
-    margin-left: 30px;
-}
-.two{
-    max-width: 100%;
+    margin-left: 10px;
 }
 
 
-@media only screen and (max-width: 959px) {
+
+
+
+@media only screen and (max-width: 1050px) {
     #nav_menu ul li a {
 	    font-size: .875em;
     }
@@ -125,7 +126,16 @@ p{
     section h2, aside h2 {
 	    font-size: 1.125em;
     }
+    section img{
+        display: block;
+        float: none;
+    }
+    section h2 {
+        display: block;
+        float: none;
+    }
 }
+
 
 /* mobile landscape to tablet portrait */
 @media only screen and (max-width: 767px) {
@@ -191,6 +201,8 @@ p{
 
     header h2 {
 	    font-size: 1.375em;
+        max-width: 100%;
+        display: flex;
     }
     header h3 {
 	    font-size: .8125em;
