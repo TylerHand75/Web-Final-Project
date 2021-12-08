@@ -108,8 +108,8 @@ p{
 .pc{
     float: none;
     display: inline-block;
-    align-content: center;
-    margin-left: 20px;
+    align-content:center;
+    margin: 20px;
 }
 
 
@@ -231,5 +231,8 @@ p{
     }
     #socal_menu{
         display: block;
+    }
+    img{
+        margin: 0%;
     }
 }
